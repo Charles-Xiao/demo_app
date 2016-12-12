@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'bcrypt' , '3.1.11'
+
 gem 'rails-controller-testing'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
