@@ -2,10 +2,8 @@
 
 one:
   content: MyText
-  user_id: MyString
-  integer: MyString
+  user: one
 
 two:
   content: MyText
-  user_id: MyString
-  integer: MyString
+  user: two
